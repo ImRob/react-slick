@@ -31,6 +31,9 @@ export default class CenterMode extends Component {
           <div><h3>9</h3></div>
           <div><h3>10</h3></div>
           <div><h3>11</h3></div>
+          <div><h3>12</h3></div>
+                    <div><h3>13</h3></div>
+
         </Slider>
       </div>
     );
