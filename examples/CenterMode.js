@@ -1,6 +1,11 @@
 import React, { Component } from 'react'
 import Slider from '../src/slider'
 
+//whats going on here?
+
+
+
+
 export default class CenterMode extends Component {
   render() {
     const settings = {
@@ -24,6 +29,7 @@ export default class CenterMode extends Component {
           <div><h3>7</h3></div>
           <div><h3>8</h3></div>
           <div><h3>9</h3></div>
+          <div><h3>10</h3></div>
         </Slider>
       </div>
     );
